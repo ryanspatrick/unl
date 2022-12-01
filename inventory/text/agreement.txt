@@ -1,0 +1,25 @@
+29 New ideas and projects sometimes distract me from previous ones.
+30 Setbacks don't discourage me
+31 I have been obsessed with a certain idea or project for a short time but later lost interest.
+32 I am a hard worker.
+33 I often set a goal but later choose to pursue a different one.
+34 I have difficulty maintaining my focus on projects that take more than a few months to complete.
+35 I finish whatever I begin.
+36 I am diligent.
+39 My academic performance is important to me.
+40 I set goals for the grades I want in my classes.
+41 It is important for me to do as well as I can in my courses.
+42 I find it difficult to motivate myself to study for my courses.
+43 I study just what I need to know to pass.
+46 I usually start an assignment shortly after it is assigned.
+47 When I have a deadline, I often waste time doing other things.
+48 I usually plan out my week
+49 I find it hard to stick to my study schedule.
+50 I schedule more time to study for difficult classes.
+51 I know how to manage my time.
+54 I know how to study for tests.
+55 I know how to study well.
+56 I will develop a strong plan for academic success.
+57 Academically, I am very self-disciplined.
+58 I will handle any academic issues I might encounter.
+59 UNL was my first choice.

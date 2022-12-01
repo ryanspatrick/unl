@@ -1,5 +1,5 @@
-      Student: Sample Student
-         NUID: 12345678
+      Student: FIRST LAST
+         NUID: 89012651
 College/Major: Chemistry ASC-U
  
 Advanced Placement 
