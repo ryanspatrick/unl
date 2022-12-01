@@ -1,0 +1,129 @@
+grammar Inventory;
+
+@members{
+double[] theta = { 0,0.1848,0.3696,0.5544,0.7392,0.924,1.1088,1.2936,1.4784,1.6632,1.848,2.0328,2.2176,2.4024,2.5872,2.772,2.9568,3.1416,3.3264,3.5112,3.696,3.8808,4.0656,4.2504,4.4352,4.62,4.8048,4.9896,5.1744,5.3592,5.544,5.7288,5.9136,6.0984 };
+double[] rho = new double[34];
+int count = 0;
+}
+
+student_tok : '      Student:';
+nuid_tok : '         NUID:';
+college_tok : 'College/Major:';
+ap_tok : 'Advanced Placement ';
+ib_tok : 'International Baccalaureate ';
+trde_tok : 'Transfer and Dual Enrollment';
+math_tok : 'Math Courses';
+unl_tok : 'UNL Courses';
+eof : EOF;
+
+SK : '\r' { skip(); };
+
+inventory : student nuid collegemajor ap ib unl trde math ace survey eof { 
+	  for( int i = 0; i < rho.length; i++ ){
+	       System.out.format( "%f,%f\n" , rho[i] * Math.cos( theta[ i ] ) , rho[i] * Math.sin( theta[i] ) );
+	  }
+	  System.out.format( "%f,%f\n" , rho[0] * Math.cos( theta[ 0 ] ) , rho[0] * Math.sin( theta[0] ) );
+	  System.out.println();
+ };
+
+ace : 'ACE Outcomes' ('\n')+ . ('\n')+ (ace_head txt { System.err.println( $ace_head.text + "\n" + $txt.text.trim() ); System.err.println(); } )+ ('\n');
+ace_head : '     ACE 1 Writing'
+	 | '     ACE 2 Communication Competence'
+	 | '     ACE 3 Math/Stat/Reasoning'
+	 | '     ACE 4 Science'
+	 | '     ACE 5 Humanities'
+	 | '     ACE 6 Social Science'
+	 | '     ACE 7 Arts'
+	 | '     ACE 8 Civic/Ethics/Stewardship'
+	 | '     ACE 9 Global/Diversity'
+	 | '     ACE 10 Integrated Product'
+	 ;
+
+survey : txt survey_response*;
+
+survey_response : (likert_question ('\n')+ likert_answer ('\n')+ . ('\n')+)
+		| (free_question ('\n')+ free_answer ('\n') { System.err.println( $free_question.text + "\n" + $free_answer.text.trim() ); System.err.println(); });
+
+likert_question : '         15 Knowing how to study'
+		| '         16 Making Friends'
+		| '         17 Being in a large environment'
+		| '         18 Paying for college'
+		| '         19 Doing well in my classes'
+		| '         20 Being away from family'
+		| '         21 Finding help if I need it'
+		| '         22 Making the right major/career decision'
+		| '         23 Managing my time'
+		| '         29 New ideas and projects sometimes distract me from previous ones.'
+		| '         30 Setbacks don\'t discourage me. '
+		| '         31 I have been obsessed with a certain idea or project for a short time but later lost interest.'
+		| '         32 I am a hard worker.'
+		| '         33 I often set a goal but later choose to pursue a different one.'
+		| '         34 I have difficulty maintaining my focus on projects that take more than a few months to complete.'
+		| '         35 I finish whatever I begin.'
+		| '         36 I am diligent.'
+		| '         39 My academic performance is important to me.'
+		| '         40 I set goals for the grades I want in my classes.'
+		| '         41 It is important for me to do as well as I can in my courses.'
+		| '         42 I find it difficult to motivate myself to study for my courses.'
+		| '         43 I study just what I need to know to pass.'
+		| '         46 I usually start an assignment shortly after it is assigned.'
+		| '         47 When I have a deadline, I often waste time doing other things.'
+		| '         48 I usually plan out my week\'s work in advance.'
+		| '         49 I find it hard to stick to my study schedule.'
+		| '         50 I schedule more time to study for difficult classes.'
+		| '         51 I know how to manage my time.'
+		| '         54 I know how to study for tests.'
+		| '         55 I know how to study well.'
+		| '         56 I will develop a strong plan for academic success.'
+		| '         57 Academically, I am very self-disciplined.'
+		| '         58 I will handle any academic issues I might encounter.'
+		| '         59 UNL was my first choice.'
+		;
+
+likert_answer : ( likert_agree | likert_conce );
+
+free_question : 
+	        '         2 I plan to live'
+	      | '         3 My first term, I plan to work on campus this many hours:'
+	      | '         4 My first term, I plan to work off campus this many hours:'
+	      | '         5 I am interested in one of the Pre-professional areas:'
+	      | '         6 My strongest subjects are (select all that apply):'
+	      | '         7 My most difficult subjects are (select all that apply): '
+	      | '         8 The average number of hours I spent in high school studying outside of class time:'
+	      | '         9 The amount of time I plan to study outside of class time in college:'
+	      | '         10 Number of activities I plan to be involved in at UNL:'
+	      | '         11 Activities in which I plan to participate during my first year that may impactt my planning:'
+	      | '         12 My parents earned a Bachelor\'s Degree.'
+	      | '         24 Do you plan to take coursework in a modern/classical (i.e., non-English) language?'
+	      | '         25 Briefly describe your career interests:'
+	      | '         26 Majors of Interest:'
+  	      ;
+
+free_answer : txt;
+
+student : student_tok . txt;
+nuid : nuid_tok . txt;
+collegemajor : college_tok . txt { System.err.println( $college_tok.text + "\n" + $txt.text.trim() ); System.err.println(); };
+ap : ap_tok '\n' txt { System.err.println( $ap_tok.text + "\n" + $txt.text.trim() ); System.err.println(); };
+ib : ib_tok '\n' txt { System.err.println( $ib_tok.text + "\n" + $txt.text.trim() ); System.err.println(); };
+trde : trde_tok '\n' txt { System.err.println( $trde_tok.text + "\n" + $txt.text.trim() ); System.err.println(); };
+math : math_tok '\n' txt { System.err.println( $math_tok.text + "\n" + $txt.text.trim() ); System.err.println(); };
+unl : unl_tok '\n' txt { System.err.println( $unl_tok.text + "\n" + $txt.text.trim() ); System.err.println(); };
+
+likert_agree : (very_strong_agree | strong_agree | neutral_agree | weak_agree | very_weak_agree);
+likert_conce : (very_strong_conce | strong_conce | neutral_conce | weak_conce | very_weak_conce);
+
+very_strong_agree : ( '             Strongly Agree' | '             Very much like me' ) { rho[count] = 5; count++; };
+strong_agree : ( '             Agree' | '             Mostly like me' ) { rho[count] = 4; count++; };
+neutral_agree : ( '             Neutral' | '             Somewhat like me' ) { rho[count] = 3; count++; };
+weak_agree : ( '             Disagree' | '             Not much like me' ) { rho[count] = 2; count++; };
+very_weak_agree : ( '             Strongly Disagree' | '             Not like me at all' ) { rho[count] = 1; count++; };
+
+very_strong_conce : '             Extremely Concerned' { rho[count] = 1; count++; };
+strong_conce : '             Moderately Concerned' { rho[count] = 2; count++; };
+neutral_conce : '             Somewhat Concerned' { rho[count] = 3; count++; };
+weak_conce : '             Slightly Concerned' { rho[count] = 4; count++; };
+very_weak_conce : '             Not Concerned' { rho[count] = 5; count++; };
+
+txt : (ANYTHING | '\n')+;
+ANYTHING : (.);
