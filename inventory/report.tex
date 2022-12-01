@@ -1,0 +1,53 @@
+%
+% College/Major
+% AP
+% IB
+% UNL
+% Transfer/Dual Enrollment
+% Math Courses
+% ACE Outcomes
+
+% 12 - 20: Biggest Concerns (9)
+% 24 - 31: Perseverance     (8)
+% 32 - 36: Motivation       (5)
+% 37 - 42: Time Management  (6)
+% 43 - 48: Aptitude         (6)
+
+\documentclass{article}% use the article class
+\usepackage[margin=0.25in]{geometry}% reduce margins to a half inch on all sides
+\usepackage[colorlinks=true,linkcolor=red]{hyperref}
+\usepackage{listings}
+\usepackage{caption}
+\lstset{%
+breakatwhitespace=false,
+breaklines=true,
+keepspaces=true,
+stepnumber=1,
+basicstyle=\ttfamily,
+breaklines=true
+}
+\usepackage{graphicx}
+\usepackage{upquote}
+\usepackage{float}
+\usepackage{pdfpages}
+\DeclareGraphicsExtensions{.pdf}
+\begin{document}
+\lstinputlisting{free.txt}
+\newpage
+\begin{figure}[H]
+  \center
+  \caption*{\tiny Strongly Agree and Not Concerned Correspond to Largest Circle, Strongly Disagree and Very Concerned Correspond to Smallest Circle}
+  \resizebox{!}{0.45\textwidth}{
+    \includegraphics{}
+  }
+\end{figure}
+\section*{\small Question Guide}
+\subsection*{\small Concern}
+{\small
+\lstinputlisting{concern.txt}
+}
+\subsection*{\small Agreement}
+{\small
+\lstinputlisting{agreement.txt}
+}
+\end{document}

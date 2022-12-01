@@ -1,0 +1,258 @@
+line 61:0 extraneous input 'N' expecting {'
+', 'ACE 1 Writing', 'ACE 2 Communication Competence', 'ACE 3 Math/Stat/Reasoning', 'ACE 4 Science', 'ACE 5 Humanities', 'ACE 6 Social Science', 'ACE 7 Arts', 'ACE 8 Civic/Ethics/Stewardship', 'ACE 9 Global/Diversity', 'ACE 10 Integrated Product'}
+line 62:0 extraneous input 'S' expecting {'
+', 'ACE 1 Writing', 'ACE 2 Communication Competence', 'ACE 3 Math/Stat/Reasoning', 'ACE 4 Science', 'ACE 5 Humanities', 'ACE 6 Social Science', 'ACE 7 Arts', 'ACE 8 Civic/Ethics/Stewardship', 'ACE 9 Global/Diversity', 'ACE 10 Integrated Product'}
+line 65:0 extraneous input 'F' expecting {'
+', 'ACE 1 Writing', 'ACE 2 Communication Competence', 'ACE 3 Math/Stat/Reasoning', 'ACE 4 Science', 'ACE 5 Humanities', 'ACE 6 Social Science', 'ACE 7 Arts', 'ACE 8 Civic/Ethics/Stewardship', 'ACE 9 Global/Diversity', 'ACE 10 Integrated Product'}
+line 66:0 extraneous input '1. I plan to live' expecting {'
+', 'ACE 1 Writing', 'ACE 2 Communication Competence', 'ACE 3 Math/Stat/Reasoning', 'ACE 4 Science', 'ACE 5 Humanities', 'ACE 6 Social Science', 'ACE 7 Arts', 'ACE 8 Civic/Ethics/Stewardship', 'ACE 9 Global/Diversity', 'ACE 10 Integrated Product'}
+line 67:0 extraneous input 'i' expecting {'
+', 'ACE 1 Writing', 'ACE 2 Communication Competence', 'ACE 3 Math/Stat/Reasoning', 'ACE 4 Science', 'ACE 5 Humanities', 'ACE 6 Social Science', 'ACE 7 Arts', 'ACE 8 Civic/Ethics/Stewardship', 'ACE 9 Global/Diversity', 'ACE 10 Integrated Product'}
+line 68:0 extraneous input '2. My first term, I plan to work on campus this many hours:' expecting {'
+', 'ACE 1 Writing', 'ACE 2 Communication Competence', 'ACE 3 Math/Stat/Reasoning', 'ACE 4 Science', 'ACE 5 Humanities', 'ACE 6 Social Science', 'ACE 7 Arts', 'ACE 8 Civic/Ethics/Stewardship', 'ACE 9 Global/Diversity', 'ACE 10 Integrated Product'}
+line 69:0 extraneous input 'I' expecting {'
+', 'ACE 1 Writing', 'ACE 2 Communication Competence', 'ACE 3 Math/Stat/Reasoning', 'ACE 4 Science', 'ACE 5 Humanities', 'ACE 6 Social Science', 'ACE 7 Arts', 'ACE 8 Civic/Ethics/Stewardship', 'ACE 9 Global/Diversity', 'ACE 10 Integrated Product'}
+line 70:0 extraneous input '3. My first term, I plan to work off campus this many hours:' expecting {'
+', 'ACE 1 Writing', 'ACE 2 Communication Competence', 'ACE 3 Math/Stat/Reasoning', 'ACE 4 Science', 'ACE 5 Humanities', 'ACE 6 Social Science', 'ACE 7 Arts', 'ACE 8 Civic/Ethics/Stewardship', 'ACE 9 Global/Diversity', 'ACE 10 Integrated Product'}
+line 71:0 extraneous input 'I' expecting {'
+', 'ACE 1 Writing', 'ACE 2 Communication Competence', 'ACE 3 Math/Stat/Reasoning', 'ACE 4 Science', 'ACE 5 Humanities', 'ACE 6 Social Science', 'ACE 7 Arts', 'ACE 8 Civic/Ethics/Stewardship', 'ACE 9 Global/Diversity', 'ACE 10 Integrated Product'}
+line 72:0 extraneous input '4. I am interested in one of the Pre-professional areas:' expecting {'
+', 'ACE 1 Writing', 'ACE 2 Communication Competence', 'ACE 3 Math/Stat/Reasoning', 'ACE 4 Science', 'ACE 5 Humanities', 'ACE 6 Social Science', 'ACE 7 Arts', 'ACE 8 Civic/Ethics/Stewardship', 'ACE 9 Global/Diversity', 'ACE 10 Integrated Product'}
+line 73:0 extraneous input 'N' expecting {'
+', 'ACE 1 Writing', 'ACE 2 Communication Competence', 'ACE 3 Math/Stat/Reasoning', 'ACE 4 Science', 'ACE 5 Humanities', 'ACE 6 Social Science', 'ACE 7 Arts', 'ACE 8 Civic/Ethics/Stewardship', 'ACE 9 Global/Diversity', 'ACE 10 Integrated Product'}
+line 74:0 extraneous input '5. My strongest subjects are (select all that apply):' expecting {'
+', 'ACE 1 Writing', 'ACE 2 Communication Competence', 'ACE 3 Math/Stat/Reasoning', 'ACE 4 Science', 'ACE 5 Humanities', 'ACE 6 Social Science', 'ACE 7 Arts', 'ACE 8 Civic/Ethics/Stewardship', 'ACE 9 Global/Diversity', 'ACE 10 Integrated Product'}
+line 75:0 extraneous input 'E' expecting {'
+', 'ACE 1 Writing', 'ACE 2 Communication Competence', 'ACE 3 Math/Stat/Reasoning', 'ACE 4 Science', 'ACE 5 Humanities', 'ACE 6 Social Science', 'ACE 7 Arts', 'ACE 8 Civic/Ethics/Stewardship', 'ACE 9 Global/Diversity', 'ACE 10 Integrated Product'}
+line 76:0 extraneous input 'M' expecting {'
+', 'ACE 1 Writing', 'ACE 2 Communication Competence', 'ACE 3 Math/Stat/Reasoning', 'ACE 4 Science', 'ACE 5 Humanities', 'ACE 6 Social Science', 'ACE 7 Arts', 'ACE 8 Civic/Ethics/Stewardship', 'ACE 9 Global/Diversity', 'ACE 10 Integrated Product'}
+line 77:0 extraneous input '6. My most difficult subjects are (select all that apply): ' expecting {'
+', 'ACE 1 Writing', 'ACE 2 Communication Competence', 'ACE 3 Math/Stat/Reasoning', 'ACE 4 Science', 'ACE 5 Humanities', 'ACE 6 Social Science', 'ACE 7 Arts', 'ACE 8 Civic/Ethics/Stewardship', 'ACE 9 Global/Diversity', 'ACE 10 Integrated Product'}
+line 78:0 extraneous input 'S' expecting {'
+', 'ACE 1 Writing', 'ACE 2 Communication Competence', 'ACE 3 Math/Stat/Reasoning', 'ACE 4 Science', 'ACE 5 Humanities', 'ACE 6 Social Science', 'ACE 7 Arts', 'ACE 8 Civic/Ethics/Stewardship', 'ACE 9 Global/Diversity', 'ACE 10 Integrated Product'}
+line 79:0 extraneous input '7. The average number of hours I spent in high school studying outside of class time:' expecting {'
+', 'ACE 1 Writing', 'ACE 2 Communication Competence', 'ACE 3 Math/Stat/Reasoning', 'ACE 4 Science', 'ACE 5 Humanities', 'ACE 6 Social Science', 'ACE 7 Arts', 'ACE 8 Civic/Ethics/Stewardship', 'ACE 9 Global/Diversity', 'ACE 10 Integrated Product'}
+line 80:0 extraneous input '3' expecting {'
+', 'ACE 1 Writing', 'ACE 2 Communication Competence', 'ACE 3 Math/Stat/Reasoning', 'ACE 4 Science', 'ACE 5 Humanities', 'ACE 6 Social Science', 'ACE 7 Arts', 'ACE 8 Civic/Ethics/Stewardship', 'ACE 9 Global/Diversity', 'ACE 10 Integrated Product'}
+line 81:0 extraneous input '8. The amount of time I plan to study outside of class time in college:' expecting {'
+', 'ACE 1 Writing', 'ACE 2 Communication Competence', 'ACE 3 Math/Stat/Reasoning', 'ACE 4 Science', 'ACE 5 Humanities', 'ACE 6 Social Science', 'ACE 7 Arts', 'ACE 8 Civic/Ethics/Stewardship', 'ACE 9 Global/Diversity', 'ACE 10 Integrated Product'}
+line 82:0 extraneous input '1' expecting {'
+', 'ACE 1 Writing', 'ACE 2 Communication Competence', 'ACE 3 Math/Stat/Reasoning', 'ACE 4 Science', 'ACE 5 Humanities', 'ACE 6 Social Science', 'ACE 7 Arts', 'ACE 8 Civic/Ethics/Stewardship', 'ACE 9 Global/Diversity', 'ACE 10 Integrated Product'}
+line 83:0 extraneous input '9. Number of activities I plan to be involved in at UNL:' expecting {'
+', 'ACE 1 Writing', 'ACE 2 Communication Competence', 'ACE 3 Math/Stat/Reasoning', 'ACE 4 Science', 'ACE 5 Humanities', 'ACE 6 Social Science', 'ACE 7 Arts', 'ACE 8 Civic/Ethics/Stewardship', 'ACE 9 Global/Diversity', 'ACE 10 Integrated Product'}
+line 84:0 extraneous input '5' expecting {'
+', 'ACE 1 Writing', 'ACE 2 Communication Competence', 'ACE 3 Math/Stat/Reasoning', 'ACE 4 Science', 'ACE 5 Humanities', 'ACE 6 Social Science', 'ACE 7 Arts', 'ACE 8 Civic/Ethics/Stewardship', 'ACE 9 Global/Diversity', 'ACE 10 Integrated Product'}
+line 85:0 extraneous input '10. Activities in which I plan to participate during my first year that may impact my' expecting {'
+', 'ACE 1 Writing', 'ACE 2 Communication Competence', 'ACE 3 Math/Stat/Reasoning', 'ACE 4 Science', 'ACE 5 Humanities', 'ACE 6 Social Science', 'ACE 7 Arts', 'ACE 8 Civic/Ethics/Stewardship', 'ACE 9 Global/Diversity', 'ACE 10 Integrated Product'}
+line 86:0 extraneous input 'planning:' expecting {'
+', 'ACE 1 Writing', 'ACE 2 Communication Competence', 'ACE 3 Math/Stat/Reasoning', 'ACE 4 Science', 'ACE 5 Humanities', 'ACE 6 Social Science', 'ACE 7 Arts', 'ACE 8 Civic/Ethics/Stewardship', 'ACE 9 Global/Diversity', 'ACE 10 Integrated Product'}
+line 87:0 extraneous input 'N' expecting {'
+', 'ACE 1 Writing', 'ACE 2 Communication Competence', 'ACE 3 Math/Stat/Reasoning', 'ACE 4 Science', 'ACE 5 Humanities', 'ACE 6 Social Science', 'ACE 7 Arts', 'ACE 8 Civic/Ethics/Stewardship', 'ACE 9 Global/Diversity', 'ACE 10 Integrated Product'}
+line 88:0 extraneous input '11. My parents earned a Bachelor's Degree.' expecting {'
+', 'ACE 1 Writing', 'ACE 2 Communication Competence', 'ACE 3 Math/Stat/Reasoning', 'ACE 4 Science', 'ACE 5 Humanities', 'ACE 6 Social Science', 'ACE 7 Arts', 'ACE 8 Civic/Ethics/Stewardship', 'ACE 9 Global/Diversity', 'ACE 10 Integrated Product'}
+line 89:0 extraneous input 'O' expecting {'
+', 'ACE 1 Writing', 'ACE 2 Communication Competence', 'ACE 3 Math/Stat/Reasoning', 'ACE 4 Science', 'ACE 5 Humanities', 'ACE 6 Social Science', 'ACE 7 Arts', 'ACE 8 Civic/Ethics/Stewardship', 'ACE 9 Global/Diversity', 'ACE 10 Integrated Product'}
+line 93:0 extraneous input '12. Knowing how to study' expecting {'
+', 'ACE 1 Writing', 'ACE 2 Communication Competence', 'ACE 3 Math/Stat/Reasoning', 'ACE 4 Science', 'ACE 5 Humanities', 'ACE 6 Social Science', 'ACE 7 Arts', 'ACE 8 Civic/Ethics/Stewardship', 'ACE 9 Global/Diversity', 'ACE 10 Integrated Product'}
+line 94:0 extraneous input 'Somewhat Concerned' expecting {'
+', 'ACE 1 Writing', 'ACE 2 Communication Competence', 'ACE 3 Math/Stat/Reasoning', 'ACE 4 Science', 'ACE 5 Humanities', 'ACE 6 Social Science', 'ACE 7 Arts', 'ACE 8 Civic/Ethics/Stewardship', 'ACE 9 Global/Diversity', 'ACE 10 Integrated Product'}
+line 95:0 extraneous input '13. Making Friends' expecting {'
+', 'ACE 1 Writing', 'ACE 2 Communication Competence', 'ACE 3 Math/Stat/Reasoning', 'ACE 4 Science', 'ACE 5 Humanities', 'ACE 6 Social Science', 'ACE 7 Arts', 'ACE 8 Civic/Ethics/Stewardship', 'ACE 9 Global/Diversity', 'ACE 10 Integrated Product'}
+line 96:0 extraneous input 'Not Concerned' expecting {'
+', 'ACE 1 Writing', 'ACE 2 Communication Competence', 'ACE 3 Math/Stat/Reasoning', 'ACE 4 Science', 'ACE 5 Humanities', 'ACE 6 Social Science', 'ACE 7 Arts', 'ACE 8 Civic/Ethics/Stewardship', 'ACE 9 Global/Diversity', 'ACE 10 Integrated Product'}
+line 97:0 extraneous input '14. Being in a large environment' expecting {'
+', 'ACE 1 Writing', 'ACE 2 Communication Competence', 'ACE 3 Math/Stat/Reasoning', 'ACE 4 Science', 'ACE 5 Humanities', 'ACE 6 Social Science', 'ACE 7 Arts', 'ACE 8 Civic/Ethics/Stewardship', 'ACE 9 Global/Diversity', 'ACE 10 Integrated Product'}
+line 98:0 extraneous input 'Not Concerned' expecting {'
+', 'ACE 1 Writing', 'ACE 2 Communication Competence', 'ACE 3 Math/Stat/Reasoning', 'ACE 4 Science', 'ACE 5 Humanities', 'ACE 6 Social Science', 'ACE 7 Arts', 'ACE 8 Civic/Ethics/Stewardship', 'ACE 9 Global/Diversity', 'ACE 10 Integrated Product'}
+line 99:0 extraneous input '15. Paying for college' expecting {'
+', 'ACE 1 Writing', 'ACE 2 Communication Competence', 'ACE 3 Math/Stat/Reasoning', 'ACE 4 Science', 'ACE 5 Humanities', 'ACE 6 Social Science', 'ACE 7 Arts', 'ACE 8 Civic/Ethics/Stewardship', 'ACE 9 Global/Diversity', 'ACE 10 Integrated Product'}
+line 100:0 extraneous input 'Not Concerned' expecting {'
+', 'ACE 1 Writing', 'ACE 2 Communication Competence', 'ACE 3 Math/Stat/Reasoning', 'ACE 4 Science', 'ACE 5 Humanities', 'ACE 6 Social Science', 'ACE 7 Arts', 'ACE 8 Civic/Ethics/Stewardship', 'ACE 9 Global/Diversity', 'ACE 10 Integrated Product'}
+line 101:0 extraneous input '16. Doing well in my classes' expecting {'
+', 'ACE 1 Writing', 'ACE 2 Communication Competence', 'ACE 3 Math/Stat/Reasoning', 'ACE 4 Science', 'ACE 5 Humanities', 'ACE 6 Social Science', 'ACE 7 Arts', 'ACE 8 Civic/Ethics/Stewardship', 'ACE 9 Global/Diversity', 'ACE 10 Integrated Product'}
+line 104:0 extraneous input 'Not Concerned' expecting {'
+', 'ACE 1 Writing', 'ACE 2 Communication Competence', 'ACE 3 Math/Stat/Reasoning', 'ACE 4 Science', 'ACE 5 Humanities', 'ACE 6 Social Science', 'ACE 7 Arts', 'ACE 8 Civic/Ethics/Stewardship', 'ACE 9 Global/Diversity', 'ACE 10 Integrated Product'}
+line 105:0 extraneous input '17. Being away from family' expecting {'
+', 'ACE 1 Writing', 'ACE 2 Communication Competence', 'ACE 3 Math/Stat/Reasoning', 'ACE 4 Science', 'ACE 5 Humanities', 'ACE 6 Social Science', 'ACE 7 Arts', 'ACE 8 Civic/Ethics/Stewardship', 'ACE 9 Global/Diversity', 'ACE 10 Integrated Product'}
+line 106:0 extraneous input 'Not Concerned' expecting {'
+', 'ACE 1 Writing', 'ACE 2 Communication Competence', 'ACE 3 Math/Stat/Reasoning', 'ACE 4 Science', 'ACE 5 Humanities', 'ACE 6 Social Science', 'ACE 7 Arts', 'ACE 8 Civic/Ethics/Stewardship', 'ACE 9 Global/Diversity', 'ACE 10 Integrated Product'}
+line 107:0 extraneous input '18. Finding help if I need it' expecting {'
+', 'ACE 1 Writing', 'ACE 2 Communication Competence', 'ACE 3 Math/Stat/Reasoning', 'ACE 4 Science', 'ACE 5 Humanities', 'ACE 6 Social Science', 'ACE 7 Arts', 'ACE 8 Civic/Ethics/Stewardship', 'ACE 9 Global/Diversity', 'ACE 10 Integrated Product'}
+line 108:0 extraneous input 'Moderately Concerned' expecting {'
+', 'ACE 1 Writing', 'ACE 2 Communication Competence', 'ACE 3 Math/Stat/Reasoning', 'ACE 4 Science', 'ACE 5 Humanities', 'ACE 6 Social Science', 'ACE 7 Arts', 'ACE 8 Civic/Ethics/Stewardship', 'ACE 9 Global/Diversity', 'ACE 10 Integrated Product'}
+line 109:0 extraneous input '19. Making the right major/career decision' expecting {'
+', 'ACE 1 Writing', 'ACE 2 Communication Competence', 'ACE 3 Math/Stat/Reasoning', 'ACE 4 Science', 'ACE 5 Humanities', 'ACE 6 Social Science', 'ACE 7 Arts', 'ACE 8 Civic/Ethics/Stewardship', 'ACE 9 Global/Diversity', 'ACE 10 Integrated Product'}
+line 110:0 extraneous input 'Not Concerned' expecting {'
+', 'ACE 1 Writing', 'ACE 2 Communication Competence', 'ACE 3 Math/Stat/Reasoning', 'ACE 4 Science', 'ACE 5 Humanities', 'ACE 6 Social Science', 'ACE 7 Arts', 'ACE 8 Civic/Ethics/Stewardship', 'ACE 9 Global/Diversity', 'ACE 10 Integrated Product'}
+line 111:0 extraneous input '20. Managing my time' expecting {'
+', 'ACE 1 Writing', 'ACE 2 Communication Competence', 'ACE 3 Math/Stat/Reasoning', 'ACE 4 Science', 'ACE 5 Humanities', 'ACE 6 Social Science', 'ACE 7 Arts', 'ACE 8 Civic/Ethics/Stewardship', 'ACE 9 Global/Diversity', 'ACE 10 Integrated Product'}
+line 112:0 extraneous input 'Extremely Concerned' expecting {'
+', 'ACE 1 Writing', 'ACE 2 Communication Competence', 'ACE 3 Math/Stat/Reasoning', 'ACE 4 Science', 'ACE 5 Humanities', 'ACE 6 Social Science', 'ACE 7 Arts', 'ACE 8 Civic/Ethics/Stewardship', 'ACE 9 Global/Diversity', 'ACE 10 Integrated Product'}
+line 113:0 extraneous input '21. Do you plan to take coursework in a modern/classical (i.e., non-English) language?' expecting {'
+', 'ACE 1 Writing', 'ACE 2 Communication Competence', 'ACE 3 Math/Stat/Reasoning', 'ACE 4 Science', 'ACE 5 Humanities', 'ACE 6 Social Science', 'ACE 7 Arts', 'ACE 8 Civic/Ethics/Stewardship', 'ACE 9 Global/Diversity', 'ACE 10 Integrated Product'}
+line 114:0 extraneous input 'N' expecting {'
+', 'ACE 1 Writing', 'ACE 2 Communication Competence', 'ACE 3 Math/Stat/Reasoning', 'ACE 4 Science', 'ACE 5 Humanities', 'ACE 6 Social Science', 'ACE 7 Arts', 'ACE 8 Civic/Ethics/Stewardship', 'ACE 9 Global/Diversity', 'ACE 10 Integrated Product'}
+line 115:0 extraneous input '22. Briefly describe your career interests:' expecting {'
+', 'ACE 1 Writing', 'ACE 2 Communication Competence', 'ACE 3 Math/Stat/Reasoning', 'ACE 4 Science', 'ACE 5 Humanities', 'ACE 6 Social Science', 'ACE 7 Arts', 'ACE 8 Civic/Ethics/Stewardship', 'ACE 9 Global/Diversity', 'ACE 10 Integrated Product'}
+line 116:0 extraneous input 'I' expecting {'
+', 'ACE 1 Writing', 'ACE 2 Communication Competence', 'ACE 3 Math/Stat/Reasoning', 'ACE 4 Science', 'ACE 5 Humanities', 'ACE 6 Social Science', 'ACE 7 Arts', 'ACE 8 Civic/Ethics/Stewardship', 'ACE 9 Global/Diversity', 'ACE 10 Integrated Product'}
+line 117:0 extraneous input 'c' expecting {'
+', 'ACE 1 Writing', 'ACE 2 Communication Competence', 'ACE 3 Math/Stat/Reasoning', 'ACE 4 Science', 'ACE 5 Humanities', 'ACE 6 Social Science', 'ACE 7 Arts', 'ACE 8 Civic/Ethics/Stewardship', 'ACE 9 Global/Diversity', 'ACE 10 Integrated Product'}
+line 118:0 extraneous input 's' expecting {'
+', 'ACE 1 Writing', 'ACE 2 Communication Competence', 'ACE 3 Math/Stat/Reasoning', 'ACE 4 Science', 'ACE 5 Humanities', 'ACE 6 Social Science', 'ACE 7 Arts', 'ACE 8 Civic/Ethics/Stewardship', 'ACE 9 Global/Diversity', 'ACE 10 Integrated Product'}
+line 119:0 extraneous input '23. Majors of Interest:' expecting {'
+', 'ACE 1 Writing', 'ACE 2 Communication Competence', 'ACE 3 Math/Stat/Reasoning', 'ACE 4 Science', 'ACE 5 Humanities', 'ACE 6 Social Science', 'ACE 7 Arts', 'ACE 8 Civic/Ethics/Stewardship', 'ACE 9 Global/Diversity', 'ACE 10 Integrated Product'}
+line 120:0 extraneous input 'E' expecting {'
+', 'ACE 1 Writing', 'ACE 2 Communication Competence', 'ACE 3 Math/Stat/Reasoning', 'ACE 4 Science', 'ACE 5 Humanities', 'ACE 6 Social Science', 'ACE 7 Arts', 'ACE 8 Civic/Ethics/Stewardship', 'ACE 9 Global/Diversity', 'ACE 10 Integrated Product'}
+line 121:0 extraneous input 'T' expecting {'
+', 'ACE 1 Writing', 'ACE 2 Communication Competence', 'ACE 3 Math/Stat/Reasoning', 'ACE 4 Science', 'ACE 5 Humanities', 'ACE 6 Social Science', 'ACE 7 Arts', 'ACE 8 Civic/Ethics/Stewardship', 'ACE 9 Global/Diversity', 'ACE 10 Integrated Product'}
+line 122:0 extraneous input 'Perseverance ' expecting {'
+', 'ACE 1 Writing', 'ACE 2 Communication Competence', 'ACE 3 Math/Stat/Reasoning', 'ACE 4 Science', 'ACE 5 Humanities', 'ACE 6 Social Science', 'ACE 7 Arts', 'ACE 8 Civic/Ethics/Stewardship', 'ACE 9 Global/Diversity', 'ACE 10 Integrated Product'}
+line 123:0 extraneous input 'Below are a number of statements that may or may not apply to you. When responding,' expecting {'
+', 'ACE 1 Writing', 'ACE 2 Communication Competence', 'ACE 3 Math/Stat/Reasoning', 'ACE 4 Science', 'ACE 5 Humanities', 'ACE 6 Social Science', 'ACE 7 Arts', 'ACE 8 Civic/Ethics/Stewardship', 'ACE 9 Global/Diversity', 'ACE 10 Integrated Product'}
+line 124:0 extraneous input 'think of how you compare to most people. There are no right or wrong answers, so' expecting {'
+', 'ACE 1 Writing', 'ACE 2 Communication Competence', 'ACE 3 Math/Stat/Reasoning', 'ACE 4 Science', 'ACE 5 Humanities', 'ACE 6 Social Science', 'ACE 7 Arts', 'ACE 8 Civic/Ethics/Stewardship', 'ACE 9 Global/Diversity', 'ACE 10 Integrated Product'}
+line 125:0 extraneous input 'please answer honestly.' expecting {'
+', 'ACE 1 Writing', 'ACE 2 Communication Competence', 'ACE 3 Math/Stat/Reasoning', 'ACE 4 Science', 'ACE 5 Humanities', 'ACE 6 Social Science', 'ACE 7 Arts', 'ACE 8 Civic/Ethics/Stewardship', 'ACE 9 Global/Diversity', 'ACE 10 Integrated Product'}
+line 126:0 extraneous input '24. New ideas and projects sometimes distract me from previous ones.' expecting {'
+', 'ACE 1 Writing', 'ACE 2 Communication Competence', 'ACE 3 Math/Stat/Reasoning', 'ACE 4 Science', 'ACE 5 Humanities', 'ACE 6 Social Science', 'ACE 7 Arts', 'ACE 8 Civic/Ethics/Stewardship', 'ACE 9 Global/Diversity', 'ACE 10 Integrated Product'}
+line 127:0 extraneous input 'Very much like me' expecting {'
+', 'ACE 1 Writing', 'ACE 2 Communication Competence', 'ACE 3 Math/Stat/Reasoning', 'ACE 4 Science', 'ACE 5 Humanities', 'ACE 6 Social Science', 'ACE 7 Arts', 'ACE 8 Civic/Ethics/Stewardship', 'ACE 9 Global/Diversity', 'ACE 10 Integrated Product'}
+line 128:0 extraneous input '25. Setbacks don't discourage me. ' expecting {'
+', 'ACE 1 Writing', 'ACE 2 Communication Competence', 'ACE 3 Math/Stat/Reasoning', 'ACE 4 Science', 'ACE 5 Humanities', 'ACE 6 Social Science', 'ACE 7 Arts', 'ACE 8 Civic/Ethics/Stewardship', 'ACE 9 Global/Diversity', 'ACE 10 Integrated Product'}
+line 129:0 extraneous input 'Mostly like me' expecting {'
+', 'ACE 1 Writing', 'ACE 2 Communication Competence', 'ACE 3 Math/Stat/Reasoning', 'ACE 4 Science', 'ACE 5 Humanities', 'ACE 6 Social Science', 'ACE 7 Arts', 'ACE 8 Civic/Ethics/Stewardship', 'ACE 9 Global/Diversity', 'ACE 10 Integrated Product'}
+line 130:0 extraneous input '26. I have been obsessed with a certain idea or project for a short time but later lost' expecting {'
+', 'ACE 1 Writing', 'ACE 2 Communication Competence', 'ACE 3 Math/Stat/Reasoning', 'ACE 4 Science', 'ACE 5 Humanities', 'ACE 6 Social Science', 'ACE 7 Arts', 'ACE 8 Civic/Ethics/Stewardship', 'ACE 9 Global/Diversity', 'ACE 10 Integrated Product'}
+line 131:0 extraneous input 'interest.' expecting {'
+', 'ACE 1 Writing', 'ACE 2 Communication Competence', 'ACE 3 Math/Stat/Reasoning', 'ACE 4 Science', 'ACE 5 Humanities', 'ACE 6 Social Science', 'ACE 7 Arts', 'ACE 8 Civic/Ethics/Stewardship', 'ACE 9 Global/Diversity', 'ACE 10 Integrated Product'}
+line 132:0 extraneous input 'Somewhat like me' expecting {'
+', 'ACE 1 Writing', 'ACE 2 Communication Competence', 'ACE 3 Math/Stat/Reasoning', 'ACE 4 Science', 'ACE 5 Humanities', 'ACE 6 Social Science', 'ACE 7 Arts', 'ACE 8 Civic/Ethics/Stewardship', 'ACE 9 Global/Diversity', 'ACE 10 Integrated Product'}
+line 133:0 extraneous input '27. I am a hard worker.' expecting {'
+', 'ACE 1 Writing', 'ACE 2 Communication Competence', 'ACE 3 Math/Stat/Reasoning', 'ACE 4 Science', 'ACE 5 Humanities', 'ACE 6 Social Science', 'ACE 7 Arts', 'ACE 8 Civic/Ethics/Stewardship', 'ACE 9 Global/Diversity', 'ACE 10 Integrated Product'}
+line 134:0 extraneous input 'Very much like me' expecting {'
+', 'ACE 1 Writing', 'ACE 2 Communication Competence', 'ACE 3 Math/Stat/Reasoning', 'ACE 4 Science', 'ACE 5 Humanities', 'ACE 6 Social Science', 'ACE 7 Arts', 'ACE 8 Civic/Ethics/Stewardship', 'ACE 9 Global/Diversity', 'ACE 10 Integrated Product'}
+line 135:0 extraneous input '28. I often set a goal but later choose to pursue a different one.' expecting {'
+', 'ACE 1 Writing', 'ACE 2 Communication Competence', 'ACE 3 Math/Stat/Reasoning', 'ACE 4 Science', 'ACE 5 Humanities', 'ACE 6 Social Science', 'ACE 7 Arts', 'ACE 8 Civic/Ethics/Stewardship', 'ACE 9 Global/Diversity', 'ACE 10 Integrated Product'}
+line 136:0 extraneous input 'Somewhat like me' expecting {'
+', 'ACE 1 Writing', 'ACE 2 Communication Competence', 'ACE 3 Math/Stat/Reasoning', 'ACE 4 Science', 'ACE 5 Humanities', 'ACE 6 Social Science', 'ACE 7 Arts', 'ACE 8 Civic/Ethics/Stewardship', 'ACE 9 Global/Diversity', 'ACE 10 Integrated Product'}
+line 137:0 extraneous input '29. I have difficulty maintaining my focus on projects that take more than a few months to' expecting {'
+', 'ACE 1 Writing', 'ACE 2 Communication Competence', 'ACE 3 Math/Stat/Reasoning', 'ACE 4 Science', 'ACE 5 Humanities', 'ACE 6 Social Science', 'ACE 7 Arts', 'ACE 8 Civic/Ethics/Stewardship', 'ACE 9 Global/Diversity', 'ACE 10 Integrated Product'}
+line 138:0 extraneous input 'complete.' expecting {'
+', 'ACE 1 Writing', 'ACE 2 Communication Competence', 'ACE 3 Math/Stat/Reasoning', 'ACE 4 Science', 'ACE 5 Humanities', 'ACE 6 Social Science', 'ACE 7 Arts', 'ACE 8 Civic/Ethics/Stewardship', 'ACE 9 Global/Diversity', 'ACE 10 Integrated Product'}
+line 139:0 extraneous input 'Very much like me' expecting {'
+', 'ACE 1 Writing', 'ACE 2 Communication Competence', 'ACE 3 Math/Stat/Reasoning', 'ACE 4 Science', 'ACE 5 Humanities', 'ACE 6 Social Science', 'ACE 7 Arts', 'ACE 8 Civic/Ethics/Stewardship', 'ACE 9 Global/Diversity', 'ACE 10 Integrated Product'}
+line 140:0 extraneous input '30. I finish whatever I begin.' expecting {'
+', 'ACE 1 Writing', 'ACE 2 Communication Competence', 'ACE 3 Math/Stat/Reasoning', 'ACE 4 Science', 'ACE 5 Humanities', 'ACE 6 Social Science', 'ACE 7 Arts', 'ACE 8 Civic/Ethics/Stewardship', 'ACE 9 Global/Diversity', 'ACE 10 Integrated Product'}
+line 141:0 extraneous input 'Very much like me' expecting {'
+', 'ACE 1 Writing', 'ACE 2 Communication Competence', 'ACE 3 Math/Stat/Reasoning', 'ACE 4 Science', 'ACE 5 Humanities', 'ACE 6 Social Science', 'ACE 7 Arts', 'ACE 8 Civic/Ethics/Stewardship', 'ACE 9 Global/Diversity', 'ACE 10 Integrated Product'}
+line 142:0 extraneous input '31. I am diligent.' expecting {'
+', 'ACE 1 Writing', 'ACE 2 Communication Competence', 'ACE 3 Math/Stat/Reasoning', 'ACE 4 Science', 'ACE 5 Humanities', 'ACE 6 Social Science', 'ACE 7 Arts', 'ACE 8 Civic/Ethics/Stewardship', 'ACE 9 Global/Diversity', 'ACE 10 Integrated Product'}
+line 145:0 extraneous input 'Very much like me' expecting {'
+', 'ACE 1 Writing', 'ACE 2 Communication Competence', 'ACE 3 Math/Stat/Reasoning', 'ACE 4 Science', 'ACE 5 Humanities', 'ACE 6 Social Science', 'ACE 7 Arts', 'ACE 8 Civic/Ethics/Stewardship', 'ACE 9 Global/Diversity', 'ACE 10 Integrated Product'}
+line 149:0 extraneous input '32. My academic performance is important to me.' expecting {'
+', 'ACE 1 Writing', 'ACE 2 Communication Competence', 'ACE 3 Math/Stat/Reasoning', 'ACE 4 Science', 'ACE 5 Humanities', 'ACE 6 Social Science', 'ACE 7 Arts', 'ACE 8 Civic/Ethics/Stewardship', 'ACE 9 Global/Diversity', 'ACE 10 Integrated Product'}
+line 150:0 extraneous input 'Strongly Agree' expecting {'
+', 'ACE 1 Writing', 'ACE 2 Communication Competence', 'ACE 3 Math/Stat/Reasoning', 'ACE 4 Science', 'ACE 5 Humanities', 'ACE 6 Social Science', 'ACE 7 Arts', 'ACE 8 Civic/Ethics/Stewardship', 'ACE 9 Global/Diversity', 'ACE 10 Integrated Product'}
+line 151:0 extraneous input '33. I set goals for the grades I want in my classes.' expecting {'
+', 'ACE 1 Writing', 'ACE 2 Communication Competence', 'ACE 3 Math/Stat/Reasoning', 'ACE 4 Science', 'ACE 5 Humanities', 'ACE 6 Social Science', 'ACE 7 Arts', 'ACE 8 Civic/Ethics/Stewardship', 'ACE 9 Global/Diversity', 'ACE 10 Integrated Product'}
+line 152:0 extraneous input 'Strongly Agree' expecting {'
+', 'ACE 1 Writing', 'ACE 2 Communication Competence', 'ACE 3 Math/Stat/Reasoning', 'ACE 4 Science', 'ACE 5 Humanities', 'ACE 6 Social Science', 'ACE 7 Arts', 'ACE 8 Civic/Ethics/Stewardship', 'ACE 9 Global/Diversity', 'ACE 10 Integrated Product'}
+line 153:0 extraneous input '34. It is important for me to do as well as I can in my courses.' expecting {'
+', 'ACE 1 Writing', 'ACE 2 Communication Competence', 'ACE 3 Math/Stat/Reasoning', 'ACE 4 Science', 'ACE 5 Humanities', 'ACE 6 Social Science', 'ACE 7 Arts', 'ACE 8 Civic/Ethics/Stewardship', 'ACE 9 Global/Diversity', 'ACE 10 Integrated Product'}
+line 154:0 extraneous input 'Strongly Agree' expecting {'
+', 'ACE 1 Writing', 'ACE 2 Communication Competence', 'ACE 3 Math/Stat/Reasoning', 'ACE 4 Science', 'ACE 5 Humanities', 'ACE 6 Social Science', 'ACE 7 Arts', 'ACE 8 Civic/Ethics/Stewardship', 'ACE 9 Global/Diversity', 'ACE 10 Integrated Product'}
+line 155:0 extraneous input '35. I find it difficult to motivate myself to study for my courses.' expecting {'
+', 'ACE 1 Writing', 'ACE 2 Communication Competence', 'ACE 3 Math/Stat/Reasoning', 'ACE 4 Science', 'ACE 5 Humanities', 'ACE 6 Social Science', 'ACE 7 Arts', 'ACE 8 Civic/Ethics/Stewardship', 'ACE 9 Global/Diversity', 'ACE 10 Integrated Product'}
+line 156:0 extraneous input 'Agree' expecting {'
+', 'ACE 1 Writing', 'ACE 2 Communication Competence', 'ACE 3 Math/Stat/Reasoning', 'ACE 4 Science', 'ACE 5 Humanities', 'ACE 6 Social Science', 'ACE 7 Arts', 'ACE 8 Civic/Ethics/Stewardship', 'ACE 9 Global/Diversity', 'ACE 10 Integrated Product'}
+line 157:0 extraneous input '36. I study just what I need to know to pass.' expecting {'
+', 'ACE 1 Writing', 'ACE 2 Communication Competence', 'ACE 3 Math/Stat/Reasoning', 'ACE 4 Science', 'ACE 5 Humanities', 'ACE 6 Social Science', 'ACE 7 Arts', 'ACE 8 Civic/Ethics/Stewardship', 'ACE 9 Global/Diversity', 'ACE 10 Integrated Product'}
+line 158:0 extraneous input 'Disagree' expecting {'
+', 'ACE 1 Writing', 'ACE 2 Communication Competence', 'ACE 3 Math/Stat/Reasoning', 'ACE 4 Science', 'ACE 5 Humanities', 'ACE 6 Social Science', 'ACE 7 Arts', 'ACE 8 Civic/Ethics/Stewardship', 'ACE 9 Global/Diversity', 'ACE 10 Integrated Product'}
+line 161:0 extraneous input '37. I usually start an assignment shortly after it is assigned.' expecting {'
+', 'ACE 1 Writing', 'ACE 2 Communication Competence', 'ACE 3 Math/Stat/Reasoning', 'ACE 4 Science', 'ACE 5 Humanities', 'ACE 6 Social Science', 'ACE 7 Arts', 'ACE 8 Civic/Ethics/Stewardship', 'ACE 9 Global/Diversity', 'ACE 10 Integrated Product'}
+line 162:0 extraneous input 'Neutral' expecting {'
+', 'ACE 1 Writing', 'ACE 2 Communication Competence', 'ACE 3 Math/Stat/Reasoning', 'ACE 4 Science', 'ACE 5 Humanities', 'ACE 6 Social Science', 'ACE 7 Arts', 'ACE 8 Civic/Ethics/Stewardship', 'ACE 9 Global/Diversity', 'ACE 10 Integrated Product'}
+line 163:0 extraneous input '38. When I have a deadline, I often waste time doing other things.' expecting {'
+', 'ACE 1 Writing', 'ACE 2 Communication Competence', 'ACE 3 Math/Stat/Reasoning', 'ACE 4 Science', 'ACE 5 Humanities', 'ACE 6 Social Science', 'ACE 7 Arts', 'ACE 8 Civic/Ethics/Stewardship', 'ACE 9 Global/Diversity', 'ACE 10 Integrated Product'}
+line 164:0 extraneous input 'Agree' expecting {'
+', 'ACE 1 Writing', 'ACE 2 Communication Competence', 'ACE 3 Math/Stat/Reasoning', 'ACE 4 Science', 'ACE 5 Humanities', 'ACE 6 Social Science', 'ACE 7 Arts', 'ACE 8 Civic/Ethics/Stewardship', 'ACE 9 Global/Diversity', 'ACE 10 Integrated Product'}
+line 165:0 extraneous input '39. I usually plan out my week's work in advance.' expecting {'
+', 'ACE 1 Writing', 'ACE 2 Communication Competence', 'ACE 3 Math/Stat/Reasoning', 'ACE 4 Science', 'ACE 5 Humanities', 'ACE 6 Social Science', 'ACE 7 Arts', 'ACE 8 Civic/Ethics/Stewardship', 'ACE 9 Global/Diversity', 'ACE 10 Integrated Product'}
+line 166:0 extraneous input 'Strongly Agree' expecting {'
+', 'ACE 1 Writing', 'ACE 2 Communication Competence', 'ACE 3 Math/Stat/Reasoning', 'ACE 4 Science', 'ACE 5 Humanities', 'ACE 6 Social Science', 'ACE 7 Arts', 'ACE 8 Civic/Ethics/Stewardship', 'ACE 9 Global/Diversity', 'ACE 10 Integrated Product'}
+line 167:0 extraneous input '40. I find it hard to stick to my study schedule.' expecting {'
+', 'ACE 1 Writing', 'ACE 2 Communication Competence', 'ACE 3 Math/Stat/Reasoning', 'ACE 4 Science', 'ACE 5 Humanities', 'ACE 6 Social Science', 'ACE 7 Arts', 'ACE 8 Civic/Ethics/Stewardship', 'ACE 9 Global/Diversity', 'ACE 10 Integrated Product'}
+line 168:0 extraneous input 'Agree' expecting {'
+', 'ACE 1 Writing', 'ACE 2 Communication Competence', 'ACE 3 Math/Stat/Reasoning', 'ACE 4 Science', 'ACE 5 Humanities', 'ACE 6 Social Science', 'ACE 7 Arts', 'ACE 8 Civic/Ethics/Stewardship', 'ACE 9 Global/Diversity', 'ACE 10 Integrated Product'}
+line 169:0 extraneous input '41. I schedule more time to study for difficult classes.' expecting {'
+', 'ACE 1 Writing', 'ACE 2 Communication Competence', 'ACE 3 Math/Stat/Reasoning', 'ACE 4 Science', 'ACE 5 Humanities', 'ACE 6 Social Science', 'ACE 7 Arts', 'ACE 8 Civic/Ethics/Stewardship', 'ACE 9 Global/Diversity', 'ACE 10 Integrated Product'}
+line 170:0 extraneous input 'Agree' expecting {'
+', 'ACE 1 Writing', 'ACE 2 Communication Competence', 'ACE 3 Math/Stat/Reasoning', 'ACE 4 Science', 'ACE 5 Humanities', 'ACE 6 Social Science', 'ACE 7 Arts', 'ACE 8 Civic/Ethics/Stewardship', 'ACE 9 Global/Diversity', 'ACE 10 Integrated Product'}
+line 171:0 extraneous input '42. I know how to manage my time.' expecting {'
+', 'ACE 1 Writing', 'ACE 2 Communication Competence', 'ACE 3 Math/Stat/Reasoning', 'ACE 4 Science', 'ACE 5 Humanities', 'ACE 6 Social Science', 'ACE 7 Arts', 'ACE 8 Civic/Ethics/Stewardship', 'ACE 9 Global/Diversity', 'ACE 10 Integrated Product'}
+line 172:0 extraneous input 'Neutral' expecting {'
+', 'ACE 1 Writing', 'ACE 2 Communication Competence', 'ACE 3 Math/Stat/Reasoning', 'ACE 4 Science', 'ACE 5 Humanities', 'ACE 6 Social Science', 'ACE 7 Arts', 'ACE 8 Civic/Ethics/Stewardship', 'ACE 9 Global/Diversity', 'ACE 10 Integrated Product'}
+line 175:0 extraneous input '43. I know how to study for tests.' expecting {'
+', 'ACE 1 Writing', 'ACE 2 Communication Competence', 'ACE 3 Math/Stat/Reasoning', 'ACE 4 Science', 'ACE 5 Humanities', 'ACE 6 Social Science', 'ACE 7 Arts', 'ACE 8 Civic/Ethics/Stewardship', 'ACE 9 Global/Diversity', 'ACE 10 Integrated Product'}
+line 176:0 extraneous input 'Neutral' expecting {'
+', 'ACE 1 Writing', 'ACE 2 Communication Competence', 'ACE 3 Math/Stat/Reasoning', 'ACE 4 Science', 'ACE 5 Humanities', 'ACE 6 Social Science', 'ACE 7 Arts', 'ACE 8 Civic/Ethics/Stewardship', 'ACE 9 Global/Diversity', 'ACE 10 Integrated Product'}
+line 177:0 extraneous input '44. I know how to study well.' expecting {'
+', 'ACE 1 Writing', 'ACE 2 Communication Competence', 'ACE 3 Math/Stat/Reasoning', 'ACE 4 Science', 'ACE 5 Humanities', 'ACE 6 Social Science', 'ACE 7 Arts', 'ACE 8 Civic/Ethics/Stewardship', 'ACE 9 Global/Diversity', 'ACE 10 Integrated Product'}
+line 178:0 extraneous input 'Neutral' expecting {'
+', 'ACE 1 Writing', 'ACE 2 Communication Competence', 'ACE 3 Math/Stat/Reasoning', 'ACE 4 Science', 'ACE 5 Humanities', 'ACE 6 Social Science', 'ACE 7 Arts', 'ACE 8 Civic/Ethics/Stewardship', 'ACE 9 Global/Diversity', 'ACE 10 Integrated Product'}
+line 179:0 extraneous input '45. I will develop a strong plan for academic success.' expecting {'
+', 'ACE 1 Writing', 'ACE 2 Communication Competence', 'ACE 3 Math/Stat/Reasoning', 'ACE 4 Science', 'ACE 5 Humanities', 'ACE 6 Social Science', 'ACE 7 Arts', 'ACE 8 Civic/Ethics/Stewardship', 'ACE 9 Global/Diversity', 'ACE 10 Integrated Product'}
+line 180:0 extraneous input 'Agree' expecting {'
+', 'ACE 1 Writing', 'ACE 2 Communication Competence', 'ACE 3 Math/Stat/Reasoning', 'ACE 4 Science', 'ACE 5 Humanities', 'ACE 6 Social Science', 'ACE 7 Arts', 'ACE 8 Civic/Ethics/Stewardship', 'ACE 9 Global/Diversity', 'ACE 10 Integrated Product'}
+line 183:0 extraneous input '46. Academically, I am very self-disciplined.' expecting {'
+', 'ACE 1 Writing', 'ACE 2 Communication Competence', 'ACE 3 Math/Stat/Reasoning', 'ACE 4 Science', 'ACE 5 Humanities', 'ACE 6 Social Science', 'ACE 7 Arts', 'ACE 8 Civic/Ethics/Stewardship', 'ACE 9 Global/Diversity', 'ACE 10 Integrated Product'}
+line 184:0 extraneous input 'Strongly Agree' expecting {'
+', 'ACE 1 Writing', 'ACE 2 Communication Competence', 'ACE 3 Math/Stat/Reasoning', 'ACE 4 Science', 'ACE 5 Humanities', 'ACE 6 Social Science', 'ACE 7 Arts', 'ACE 8 Civic/Ethics/Stewardship', 'ACE 9 Global/Diversity', 'ACE 10 Integrated Product'}
+line 185:0 extraneous input '47. I will handle any academic issues I might encounter.' expecting {'
+', 'ACE 1 Writing', 'ACE 2 Communication Competence', 'ACE 3 Math/Stat/Reasoning', 'ACE 4 Science', 'ACE 5 Humanities', 'ACE 6 Social Science', 'ACE 7 Arts', 'ACE 8 Civic/Ethics/Stewardship', 'ACE 9 Global/Diversity', 'ACE 10 Integrated Product'}
+line 186:0 extraneous input 'Strongly Agree' expecting {'
+', 'ACE 1 Writing', 'ACE 2 Communication Competence', 'ACE 3 Math/Stat/Reasoning', 'ACE 4 Science', 'ACE 5 Humanities', 'ACE 6 Social Science', 'ACE 7 Arts', 'ACE 8 Civic/Ethics/Stewardship', 'ACE 9 Global/Diversity', 'ACE 10 Integrated Product'}
+line 187:0 extraneous input '48. UNL was my first choice.' expecting {'
+', 'ACE 1 Writing', 'ACE 2 Communication Competence', 'ACE 3 Math/Stat/Reasoning', 'ACE 4 Science', 'ACE 5 Humanities', 'ACE 6 Social Science', 'ACE 7 Arts', 'ACE 8 Civic/Ethics/Stewardship', 'ACE 9 Global/Diversity', 'ACE 10 Integrated Product'}
+line 188:0 extraneous input 'Strongly Agree' expecting {'
+', 'ACE 1 Writing', 'ACE 2 Communication Competence', 'ACE 3 Math/Stat/Reasoning', 'ACE 4 Science', 'ACE 5 Humanities', 'ACE 6 Social Science', 'ACE 7 Arts', 'ACE 8 Civic/Ethics/Stewardship', 'ACE 9 Global/Diversity', 'ACE 10 Integrated Product'}
+line 189:0 extraneous input '5' expecting {'
+', 'ACE 1 Writing', 'ACE 2 Communication Competence', 'ACE 3 Math/Stat/Reasoning', 'ACE 4 Science', 'ACE 5 Humanities', 'ACE 6 Social Science', 'ACE 7 Arts', 'ACE 8 Civic/Ethics/Stewardship', 'ACE 9 Global/Diversity', 'ACE 10 Integrated Product'}
+line 190:0 mismatched input '<EOF>' expecting {'ACE 1 Writing', 'ACE 2 Communication Competence', 'ACE 3 Math/Stat/Reasoning', 'ACE 4 Science', 'ACE 5 Humanities', 'ACE 6 Social Science', 'ACE 7 Arts', 'ACE 8 Civic/Ethics/Stewardship', 'ACE 9 Global/Diversity', 'ACE 10 Integrated Product'}
+0.000000,0.000000
+0.000000,0.000000
+0.000000,0.000000
+0.000000,0.000000
+0.000000,0.000000
+0.000000,0.000000
+0.000000,0.000000
+0.000000,0.000000
+0.000000,0.000000
+-0.000000,0.000000
+-0.000000,0.000000
+-0.000000,0.000000
+-0.000000,0.000000
+-0.000000,0.000000
+-0.000000,0.000000
+-0.000000,0.000000
+-0.000000,0.000000
+-0.000000,-0.000000
+-0.000000,-0.000000
+-0.000000,-0.000000
+-0.000000,-0.000000
+-0.000000,-0.000000
+-0.000000,-0.000000
+-0.000000,-0.000000
+-0.000000,-0.000000
+-0.000000,-0.000000
+0.000000,-0.000000
+0.000000,-0.000000
+0.000000,-0.000000
+0.000000,-0.000000
+0.000000,-0.000000
+0.000000,-0.000000
+0.000000,-0.000000
+0.000000,-0.000000
+0.000000,0.000000
