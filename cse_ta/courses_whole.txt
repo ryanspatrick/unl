@@ -1,0 +1,387 @@
+CSCE
+100
+Introduction to Informatics
+CSCE
+101
+Fundamentals of Computer Science
+CSCE
+101L
+Fundamentals of Computing Laboratory
+CSCE
+120
+Learning to Code
+CSCE
+155A
+Computer Science I
+CSCE
+155E
+Computer Science I: Systems Engineering Focus
+CSCE
+155H
+Honors: Computer Science I
+CSCE
+155N
+Computer Science I: Engineering and Science Focus
+CSCE
+155T
+Computer Science I: Informatics Focus
+CSCE
+156
+Computer Science II
+CSCE
+156H
+Honors: Computer Science II
+CSCE
+163H
+Honors: Innovation Processes and Software Engineering Fundamentals
+CSCE
+183H
+Honors: Computer Problem Solving Essentials
+CSCE
+184H
+Honors: Software Development Essentials
+CSCE
+191
+Special Topics in Computer Science
+CSCE
+192
+Special Topics in Computer Science
+CSCE
+194
+Independent Study in Computing
+CSCE
+220
+Software Development for Smart-Mobile Systems
+CSCE
+230
+Computer Organization
+CSCE
+231
+Computer Systems Engineering
+CSCE
+235
+Introduction to Discrete Structures
+CSCE
+235H
+Honors: Introduction to Discrete Structures
+CSCE
+251
+Unix Programming Environment
+CSCE
+283H
+Honors: Foundations of Computer Science
+CSCE
+291
+Special Topics in Computer Science
+CSCE
+292
+Special Topics in Computer Science
+CSCE
+294
+Independent Study in Computing
+CSCE
+310
+Data Structures and Algorithms
+CSCE
+310H
+Honors: Data Structures and Algorithms
+CSCE
+311
+Data Structures and Algorithms for Informatics
+CSCE
+320
+Data Analysis
+CSCE
+322
+Programming Language Concepts
+CSCE
+322H
+Honors: Programming Language Concepts
+CSCE
+335
+Digital Logic Design
+CSCE
+336
+Embedded Systems
+CSCE
+351
+Operating System Kernels
+CSCE
+361
+Software Engineering
+CSCE
+361H
+Software Engineering
+CSCE
+370H
+Honors: Data and Models II: Data Science Fundamentals
+CSCE
+378
+Human-Computer Interaction
+CSCE
+378H
+Honors: Human-Computer Interaction
+CSCE
+383H
+Honors: Fundamentals of Software Engineering
+CSCE
+391
+Special Topics in Computer Science
+CSCE
+392
+Special Topics in Computer Science
+CSCE
+394
+Independent Study in Computing
+CSCE
+399
+Undergraduate Thesis
+CSCE
+399H
+Honors Undergraduate Thesis
+CSCE
+401H
+Honors: RAIK Design Studio I
+CSCE
+402H
+Honors: RAIK Design Studio II
+CSCE
+403H
+Honors: RAIK Design Studio III
+CSCE
+404H
+Honors: RAIK Design Studio IV
+CSCE
+405H
+Honors: RAIK Research Studio I
+CSCE
+406H
+Honors: RAIK Research Studio II
+CSCE
+410
+Information Retrieval Systems
+CSCE
+411
+Data Modeling for Systems Development
+CSCE
+412
+Data Visualization
+CSCE
+413
+Database Systems
+CSCE
+421
+Foundations of Constraint Processing
+CSCE
+423
+Design and Analysis of Algorithms
+CSCE
+424
+Computational Complexity Theory
+CSCE
+425
+Compiler Construction
+CSCE
+428
+Automata, Computation, and Formal Languages
+CSCE
+430
+Computer Architecture
+CSCE
+435
+Cluster and Grid Computing
+CSCE
+436
+Advanced Embedded Systems
+CSCE
+438
+Internet of Things
+CSCE
+439
+Robotics: Algorithms and Applications
+CSCE
+440
+Numerical Analysis I
+CSCE
+441
+Approximation of Functions
+CSCE
+447
+Numerical Linear Algebra
+CSCE
+451
+Operating Systems Principles
+CSCE
+454
+Human-Robot Interaction
+CSCE
+455
+Distributed Operating Systems
+CSCE
+456
+Parallel Programming
+CSCE
+457
+Systems Administration
+CSCE
+458
+Molecular and Nanoscale Communication
+CSCE
+459
+Genetically Engineered Systems
+CSCE
+460
+Software Engineering for Robotics
+CSCE
+461
+Advanced Topics in Software Engineering
+CSCE
+462
+Communication Networks
+CSCE
+463
+Data and Network Security
+CSCE
+464
+Internet Systems and Programming
+CSCE
+465
+Wireless Communication Networks
+CSCE
+466
+Software Design and Architecture
+CSCE
+467
+Testing, Verification and Analysis
+CSCE
+468
+Requirements Elicitation, Modeling and Analysis
+CSCE
+470
+Computer Graphics
+CSCE
+471
+Computational Methods in Bioinformatics
+CSCE
+472
+Digital Image Processing
+CSCE
+473
+Computer Vision
+CSCE
+474
+Introduction to Data Mining
+CSCE
+475
+Multiagent Systems
+CSCE
+476
+Introduction to Artificial Intelligence
+CSCE
+477
+Cryptography and Computer Security
+CSCE
+478
+Introduction to Machine Learning
+CSCE
+479
+Introduction to Deep Learning
+CSCE
+486
+Computer Science Professional Development
+CSCE
+487
+Computer Science Senior Design Project
+CSCE
+487H
+Honors Computer Science Senior Design Project
+CSCE
+488
+Computer Engineering Professional Development
+CSCE
+489
+Computer Engineering Senior Design Project
+CSCE
+489H
+Honors Computer Engineering Senior Design Project
+CSCE
+492
+Special Topics in Computer Science
+CSCE
+492H
+Honors Special Topics in Computer Science
+CSCE
+493
+Innovation Lab Project
+CSCE
+493A
+Interdisciplinary Capstone
+CSCE
+495
+Internship in Computing Practice
+CSCE
+498
+Computer Problems
+SOFT
+160
+Software Engineering I
+SOFT
+160H
+Software Engineering I
+SOFT
+161
+Software Engineering II
+SOFT
+161H
+Honors: Software Engineering II
+SOFT
+162
+Software Engineering Fundamentals
+SOFT
+260
+Software Engineering III
+SOFT
+260H
+Honors: Software Engineering III
+SOFT
+261
+Software Engineering IV
+SOFT
+261H
+Software Engineering IV
+SOFT
+360
+Software Engineering Mentoring and Leadership
+SOFT
+401H
+Honors: RAIK Design Studio I
+SOFT
+402H
+Honors: RAIK Design Studio II
+SOFT
+403
+Software Engineering Capstone I
+SOFT
+403H
+Honors: Software Engineering Capstone I
+SOFT
+404
+Software Engineering Capstone II
+SOFT
+404H
+Software Engineering Capstone II
+SOFT
+460
+Software Engineering for Robotics
+SOFT
+461
+Advanced Topics in Software Engineering
+SOFT
+466
+Software Design and Architecture
+SOFT
+467
+Testing, Verification and Analysis
+SOFT
+468
+Requirements Elicitation, Modeling and Analysis

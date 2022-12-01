@@ -1,0 +1,130 @@
+<input type="checkbox" name="course[]" value="CSCE10"><tt>CSCE  10 : Introduction to CSE</tt><br>
+<input type="checkbox" name="course[]" value="CSCE100"><tt>CSCE 100 : Introduction to Informatics</tt><br>
+<input type="checkbox" name="course[]" value="CSCE101L"><tt>CSCE 101L: Fundamentals of Computing Laboratory</tt><br>
+<input type="checkbox" name="course[]" value="CSCE101"><tt>CSCE 101 : Fundamentals of Computer Science</tt><br>
+<input type="checkbox" name="course[]" value="CSCE120"><tt>CSCE 120 : Learning to Code</tt><br>
+<input type="checkbox" name="course[]" value="CSCE155A"><tt>CSCE 155A: Computer Science I</tt><br>
+<input type="checkbox" name="course[]" value="CSCE155E"><tt>CSCE 155E: Computer Science I: Systems Engineering Focus</tt><br>
+<input type="checkbox" name="course[]" value="CSCE155H"><tt>CSCE 155H: Honors: Computer Science I</tt><br>
+<input type="checkbox" name="course[]" value="CSCE155N"><tt>CSCE 155N: Computer Science I: Engineering and Science Focus</tt><br>
+<input type="checkbox" name="course[]" value="CSCE155T"><tt>CSCE 155T: Computer Science I: Informatics Focus</tt><br>
+<input type="checkbox" name="course[]" value="CSCE156H"><tt>CSCE 156H: Honors: Computer Science II</tt><br>
+<input type="checkbox" name="course[]" value="CSCE156"><tt>CSCE 156 : Computer Science II</tt><br>
+<input type="checkbox" name="course[]" value="CSCE163H"><tt>CSCE 163H: Honors: Innovation Processes and Software Engineering Fundamentals</tt><br>
+<input type="checkbox" name="course[]" value="CSCE183H"><tt>CSCE 183H: Honors: Computer Problem Solving Essentials</tt><br>
+<input type="checkbox" name="course[]" value="CSCE184H"><tt>CSCE 184H: Honors: Software Development Essentials</tt><br>
+<input type="checkbox" name="course[]" value="CSCE191"><tt>CSCE 191 : Special Topics in Computer Science</tt><br>
+<input type="checkbox" name="course[]" value="CSCE192"><tt>CSCE 192 : Special Topics in Computer Science</tt><br>
+<input type="checkbox" name="course[]" value="CSCE194"><tt>CSCE 194 : Independent Study in Computing</tt><br>
+<input type="checkbox" name="course[]" value="CSCE220"><tt>CSCE 220 : Software Development for Smart-Mobile Systems</tt><br>
+<input type="checkbox" name="course[]" value="CSCE230"><tt>CSCE 230 : Computer Organization</tt><br>
+<input type="checkbox" name="course[]" value="CSCE231"><tt>CSCE 231 : Computer Systems Engineering</tt><br>
+<input type="checkbox" name="course[]" value="CSCE235H"><tt>CSCE 235H: Honors: Introduction to Discrete Structures</tt><br>
+<input type="checkbox" name="course[]" value="CSCE235"><tt>CSCE 235 : Introduction to Discrete Structures</tt><br>
+<input type="checkbox" name="course[]" value="CSCE251"><tt>CSCE 251 : Unix Programming Environment</tt><br>
+<input type="checkbox" name="course[]" value="CSCE283H"><tt>CSCE 283H: Honors: Foundations of Computer Science</tt><br>
+<input type="checkbox" name="course[]" value="CSCE291"><tt>CSCE 291 : Special Topics in Computer Science</tt><br>
+<input type="checkbox" name="course[]" value="CSCE292"><tt>CSCE 292 : Special Topics in Computer Science</tt><br>
+<input type="checkbox" name="course[]" value="CSCE294"><tt>CSCE 294 : Independent Study in Computing</tt><br>
+<input type="checkbox" name="course[]" value="CSCE310H"><tt>CSCE 310H: Honors: Data Structures and Algorithms</tt><br>
+<input type="checkbox" name="course[]" value="CSCE310"><tt>CSCE 310 : Data Structures and Algorithms</tt><br>
+<input type="checkbox" name="course[]" value="CSCE311"><tt>CSCE 311 : Data Structures and Algorithms for Informatics</tt><br>
+<input type="checkbox" name="course[]" value="CSCE320"><tt>CSCE 320 : Data Analysis</tt><br>
+<input type="checkbox" name="course[]" value="CSCE322H"><tt>CSCE 322H: Honors: Programming Language Concepts</tt><br>
+<input type="checkbox" name="course[]" value="CSCE322"><tt>CSCE 322 : Programming Language Concepts</tt><br>
+<input type="checkbox" name="course[]" value="CSCE335"><tt>CSCE 335 : Digital Logic Design</tt><br>
+<input type="checkbox" name="course[]" value="CSCE336"><tt>CSCE 336 : Embedded Systems</tt><br>
+<input type="checkbox" name="course[]" value="CSCE351"><tt>CSCE 351 : Operating System Kernels</tt><br>
+<input type="checkbox" name="course[]" value="CSCE361H"><tt>CSCE 361H: Software Engineering</tt><br>
+<input type="checkbox" name="course[]" value="CSCE361"><tt>CSCE 361 : Software Engineering</tt><br>
+<input type="checkbox" name="course[]" value="CSCE370H"><tt>CSCE 370H: Honors: Data and Models II: Data Science Fundamentals</tt><br>
+<input type="checkbox" name="course[]" value="CSCE378H"><tt>CSCE 378H: Honors: Human-Computer Interaction</tt><br>
+<input type="checkbox" name="course[]" value="CSCE378"><tt>CSCE 378 : Human-Computer Interaction</tt><br>
+<input type="checkbox" name="course[]" value="CSCE383H"><tt>CSCE 383H: Honors: Fundamentals of Software Engineering</tt><br>
+<input type="checkbox" name="course[]" value="CSCE391"><tt>CSCE 391 : Special Topics in Computer Science</tt><br>
+<input type="checkbox" name="course[]" value="CSCE392"><tt>CSCE 392 : Special Topics in Computer Science</tt><br>
+<input type="checkbox" name="course[]" value="CSCE394"><tt>CSCE 394 : Independent Study in Computing</tt><br>
+<input type="checkbox" name="course[]" value="CSCE399H"><tt>CSCE 399H: Honors Undergraduate Thesis</tt><br>
+<input type="checkbox" name="course[]" value="CSCE399"><tt>CSCE 399 : Undergraduate Thesis</tt><br>
+<input type="checkbox" name="course[]" value="CSCE401H"><tt>CSCE 401H: Honors: RAIK Design Studio I</tt><br>
+<input type="checkbox" name="course[]" value="CSCE402H"><tt>CSCE 402H: Honors: RAIK Design Studio II</tt><br>
+<input type="checkbox" name="course[]" value="CSCE403H"><tt>CSCE 403H: Honors: RAIK Design Studio III</tt><br>
+<input type="checkbox" name="course[]" value="CSCE404H"><tt>CSCE 404H: Honors: RAIK Design Studio IV</tt><br>
+<input type="checkbox" name="course[]" value="CSCE405H"><tt>CSCE 405H: Honors: RAIK Research Studio I</tt><br>
+<input type="checkbox" name="course[]" value="CSCE406H"><tt>CSCE 406H: Honors: RAIK Research Studio II</tt><br>
+<input type="checkbox" name="course[]" value="CSCE410"><tt>CSCE 410 : Information Retrieval Systems</tt><br>
+<input type="checkbox" name="course[]" value="CSCE411"><tt>CSCE 411 : Data Modeling for Systems Development</tt><br>
+<input type="checkbox" name="course[]" value="CSCE412"><tt>CSCE 412 : Data Visualization</tt><br>
+<input type="checkbox" name="course[]" value="CSCE413"><tt>CSCE 413 : Database Systems</tt><br>
+<input type="checkbox" name="course[]" value="CSCE421"><tt>CSCE 421 : Foundations of Constraint Processing</tt><br>
+<input type="checkbox" name="course[]" value="CSCE423"><tt>CSCE 423 : Design and Analysis of Algorithms</tt><br>
+<input type="checkbox" name="course[]" value="CSCE424"><tt>CSCE 424 : Computational Complexity Theory</tt><br>
+<input type="checkbox" name="course[]" value="CSCE425"><tt>CSCE 425 : Compiler Construction</tt><br>
+<input type="checkbox" name="course[]" value="CSCE428"><tt>CSCE 428 : Automata, Computation, and Formal Languages</tt><br>
+<input type="checkbox" name="course[]" value="CSCE430"><tt>CSCE 430 : Computer Architecture</tt><br>
+<input type="checkbox" name="course[]" value="CSCE435"><tt>CSCE 435 : Cluster and Grid Computing</tt><br>
+<input type="checkbox" name="course[]" value="CSCE436"><tt>CSCE 436 : Advanced Embedded Systems</tt><br>
+<input type="checkbox" name="course[]" value="CSCE438"><tt>CSCE 438 : Internet of Things</tt><br>
+<input type="checkbox" name="course[]" value="CSCE439"><tt>CSCE 439 : Robotics: Algorithms and Applications</tt><br>
+<input type="checkbox" name="course[]" value="CSCE440"><tt>CSCE 440 : Numerical Analysis I</tt><br>
+<input type="checkbox" name="course[]" value="CSCE441"><tt>CSCE 441 : Approximation of Functions</tt><br>
+<input type="checkbox" name="course[]" value="CSCE447"><tt>CSCE 447 : Numerical Linear Algebra</tt><br>
+<input type="checkbox" name="course[]" value="CSCE451"><tt>CSCE 451 : Operating Systems Principles</tt><br>
+<input type="checkbox" name="course[]" value="CSCE454"><tt>CSCE 454 : Human-Robot Interaction</tt><br>
+<input type="checkbox" name="course[]" value="CSCE455"><tt>CSCE 455 : Distributed Operating Systems</tt><br>
+<input type="checkbox" name="course[]" value="CSCE456"><tt>CSCE 456 : Parallel Programming</tt><br>
+<input type="checkbox" name="course[]" value="CSCE457"><tt>CSCE 457 : Systems Administration</tt><br>
+<input type="checkbox" name="course[]" value="CSCE458"><tt>CSCE 458 : Molecular and Nanoscale Communication</tt><br>
+<input type="checkbox" name="course[]" value="CSCE459"><tt>CSCE 459 : Genetically Engineered Systems</tt><br>
+<input type="checkbox" name="course[]" value="CSCE460"><tt>CSCE 460 : Software Engineering for Robotics</tt><br>
+<input type="checkbox" name="course[]" value="CSCE461"><tt>CSCE 461 : Advanced Topics in Software Engineering</tt><br>
+<input type="checkbox" name="course[]" value="CSCE462"><tt>CSCE 462 : Communication Networks</tt><br>
+<input type="checkbox" name="course[]" value="CSCE463"><tt>CSCE 463 : Data and Network Security</tt><br>
+<input type="checkbox" name="course[]" value="CSCE464"><tt>CSCE 464 : Internet Systems and Programming</tt><br>
+<input type="checkbox" name="course[]" value="CSCE465"><tt>CSCE 465 : Wireless Communication Networks</tt><br>
+<input type="checkbox" name="course[]" value="CSCE466"><tt>CSCE 466 : Software Design and Architecture</tt><br>
+<input type="checkbox" name="course[]" value="CSCE467"><tt>CSCE 467 : Testing, Verification and Analysis</tt><br>
+<input type="checkbox" name="course[]" value="CSCE468"><tt>CSCE 468 : Requirements Elicitation, Modeling and Analysis</tt><br>
+<input type="checkbox" name="course[]" value="CSCE470"><tt>CSCE 470 : Computer Graphics</tt><br>
+<input type="checkbox" name="course[]" value="CSCE471"><tt>CSCE 471 : Computational Methods in Bioinformatics</tt><br>
+<input type="checkbox" name="course[]" value="CSCE472"><tt>CSCE 472 : Digital Image Processing</tt><br>
+<input type="checkbox" name="course[]" value="CSCE473"><tt>CSCE 473 : Computer Vision</tt><br>
+<input type="checkbox" name="course[]" value="CSCE474"><tt>CSCE 474 : Introduction to Data Mining</tt><br>
+<input type="checkbox" name="course[]" value="CSCE475"><tt>CSCE 475 : Multiagent Systems</tt><br>
+<input type="checkbox" name="course[]" value="CSCE476"><tt>CSCE 476 : Introduction to Artificial Intelligence</tt><br>
+<input type="checkbox" name="course[]" value="CSCE477"><tt>CSCE 477 : Cryptography and Computer Security</tt><br>
+<input type="checkbox" name="course[]" value="CSCE478"><tt>CSCE 478 : Introduction to Machine Learning</tt><br>
+<input type="checkbox" name="course[]" value="CSCE479"><tt>CSCE 479 : Introduction to Deep Learning</tt><br>
+<input type="checkbox" name="course[]" value="CSCE486"><tt>CSCE 486 : Computer Science Professional Development</tt><br>
+<input type="checkbox" name="course[]" value="CSCE487H"><tt>CSCE 487H: Honors Computer Science Senior Design Project</tt><br>
+<input type="checkbox" name="course[]" value="CSCE487"><tt>CSCE 487 : Computer Science Senior Design Project</tt><br>
+<input type="checkbox" name="course[]" value="CSCE488"><tt>CSCE 488 : Computer Engineering Professional Development</tt><br>
+<input type="checkbox" name="course[]" value="CSCE489H"><tt>CSCE 489H: Honors Computer Engineering Senior Design Project</tt><br>
+<input type="checkbox" name="course[]" value="CSCE489"><tt>CSCE 489 : Computer Engineering Senior Design Project</tt><br>
+<input type="checkbox" name="course[]" value="CSCE492H"><tt>CSCE 492H: Honors Special Topics in Computer Science</tt><br>
+<input type="checkbox" name="course[]" value="CSCE492"><tt>CSCE 492 : Special Topics in Computer Science</tt><br>
+<input type="checkbox" name="course[]" value="CSCE493A"><tt>CSCE 493A: Interdisciplinary Capstone</tt><br>
+<input type="checkbox" name="course[]" value="CSCE493"><tt>CSCE 493 : Innovation Lab Project</tt><br>
+<input type="checkbox" name="course[]" value="CSCE495"><tt>CSCE 495 : Internship in Computing Practice</tt><br>
+<input type="checkbox" name="course[]" value="CSCE498"><tt>CSCE 498 : Computer Problems</tt><br>
+<input type="checkbox" name="course[]" value="SOFT160H"><tt>SOFT 160H: Software Engineering I</tt><br>
+<input type="checkbox" name="course[]" value="SOFT160"><tt>SOFT 160 : Software Engineering I</tt><br>
+<input type="checkbox" name="course[]" value="SOFT161H"><tt>SOFT 161H: Honors: Software Engineering II</tt><br>
+<input type="checkbox" name="course[]" value="SOFT161"><tt>SOFT 161 : Software Engineering II</tt><br>
+<input type="checkbox" name="course[]" value="SOFT162"><tt>SOFT 162 : Software Engineering Fundamentals</tt><br>
+<input type="checkbox" name="course[]" value="SOFT260H"><tt>SOFT 260H: Honors: Software Engineering III</tt><br>
+<input type="checkbox" name="course[]" value="SOFT260"><tt>SOFT 260 : Software Engineering III</tt><br>
+<input type="checkbox" name="course[]" value="SOFT261H"><tt>SOFT 261H: Software Engineering IV</tt><br>
+<input type="checkbox" name="course[]" value="SOFT261"><tt>SOFT 261 : Software Engineering IV</tt><br>
+<input type="checkbox" name="course[]" value="SOFT360"><tt>SOFT 360 : Software Engineering Mentoring and Leadership</tt><br>
+<input type="checkbox" name="course[]" value="SOFT401H"><tt>SOFT 401H: Honors: RAIK Design Studio I</tt><br>
+<input type="checkbox" name="course[]" value="SOFT402H"><tt>SOFT 402H: Honors: RAIK Design Studio II</tt><br>
+<input type="checkbox" name="course[]" value="SOFT403H"><tt>SOFT 403H: Honors: Software Engineering Capstone I</tt><br>
+<input type="checkbox" name="course[]" value="SOFT403"><tt>SOFT 403 : Software Engineering Capstone I</tt><br>
+<input type="checkbox" name="course[]" value="SOFT404H"><tt>SOFT 404H: Software Engineering Capstone II</tt><br>
+<input type="checkbox" name="course[]" value="SOFT404"><tt>SOFT 404 : Software Engineering Capstone II</tt><br>
+<input type="checkbox" name="course[]" value="SOFT460"><tt>SOFT 460 : Software Engineering for Robotics</tt><br>
+<input type="checkbox" name="course[]" value="SOFT461"><tt>SOFT 461 : Advanced Topics in Software Engineering</tt><br>
+<input type="checkbox" name="course[]" value="SOFT466"><tt>SOFT 466 : Software Design and Architecture</tt><br>
+<input type="checkbox" name="course[]" value="SOFT467"><tt>SOFT 467 : Testing, Verification and Analysis</tt><br>
+<input type="checkbox" name="course[]" value="SOFT468"><tt>SOFT 468 : Requirements Elicitation, Modeling and Analysis</tt><br>
