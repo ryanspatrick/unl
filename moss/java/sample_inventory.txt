@@ -1,0 +1,210 @@
+      Student: First Last
+         NUID: 12345678
+College/Major: Computer Science ASC-U
+ 
+Advanced Placement 
+     English and Composition Language (5, 4) - 3 credit hours English Composition 150
+ 
+International Baccalaureate 
+     No values entered
+ 
+Transfer and Dual Enrollment
+     No values entered
+ 
+Math Courses
+     Junior: Pre-Calculus/Trigonometry - A
+     Senior: Calculus I - B-
+ 
+ACE Outcomes
+ 
+     ACE 1 Writing
+         ENGL 151 Writing and Argument
+         ENGL 150 Writing and Inquiry
+ 
+     ACE 2 Communication Competence
+         COMM 101 Communication in the 21st Century
+         COMM 109 Fundamentals of Human Communication
+ 
+     ACE 5 Humanities
+         PHIL 101 Introduction to Philosophy
+         HIST 111 American History After 1877
+ 
+     ACE 6 Social Science
+         SOCI 101 Introduction to Sociology
+         PSYC 181H Honors: Introduction to Psychology
+ 
+     ACE 7 Arts
+         ENGL 170 Beginning Creative Writing
+         MUSC 160 Music as Art, Discipline and Profession
+ 
+     ACE 9 Global/Diversity
+         RELG 108 World Religions
+         GEOG 140 Introductory Human Geography
+ 
+Survey
+ 
+         1 I plan to live
+             Residence Halls
+ 
+         2 My first term, I plan to work on campus this many hours:
+             I don't plan to work on campus
+ 
+         3 My first term, I plan to work off campus this many hours:
+             I don't plan to work off campus
+ 
+         4 I am interested in one of the Pre-professional areas:
+             None
+ 
+         5 My strongest subjects are (select all that apply):
+             English
+             Math
+ 
+         6 My most difficult subjects are (select all that apply): 
+             Science
+ 
+         7 In high school, I spent this many hours studying per week: 
+             6-9 hours
+ 
+         8 In college, I plan to study this many hours per week:
+             16-20 hours
+ 
+         9 I plan to be involved in this many activities at UNL 
+             2
+ 
+         10 Do you plan to participate in any of the following programs?
+             Learning Community
+ 
+         11 My parents earned a Bachelor's Degree.
+             One
+ 
+         12 Knowing how to study
+             Not Concerned
+ 
+         13 Making Friends
+             Not Concerned
+ 
+         14 Being in a large environment
+             Slightly Concerned
+ 
+         15 Paying for college
+             Not Concerned
+ 
+         16 Doing well in my classes
+             Slightly Concerned
+ 
+         17 Being away from family
+             Slightly Concerned
+ 
+         18 Finding help if I need it
+             Slightly Concerned
+ 
+         19 Making the right major/career decision
+             Not Concerned
+ 
+         20 Managing my time
+             Somewhat Concerned
+ 
+         21 Do you plan to take coursework in a modern/classical (i.e., non-English) language?
+             Spanish
+ 
+         22 Briefly describe your career interests:
+             Although I am not entirely sure which specific career I intend to pursue, I am adamant about expanding my knowledge about technology and hope to gain more in depth knowledge about its facets.
+ 
+         23 My academic performance is important to me.
+             Strongly Agree
+ 
+         24 I set goals for the grades I want in my classes.
+             Agree
+ 
+         25 It is important for me to do as well as I can in my courses.
+             Agree
+ 
+         26 I find it difficult to motivate myself to study for my courses.
+             Disagree
+ 
+         27 I study just what I need to know to pass.
+             Disagree
+ 
+         28 I will do whatever it takes to succeed at UNL.
+             Strongly Agree
+ 
+         29 I plan to graduate in four years or less. 
+             Strongly Agree
+ 
+         30 I usually start an assignment shortly after it is assigned.
+             Agree
+ 
+         31 When I have a deadline, I often waste time doing other things.
+             Disagree
+ 
+         32 I usually plan out my week's work in advance.
+             Neutral
+ 
+         33 I find it hard to stick to my study schedule.
+             Disagree
+ 
+         34 I schedule more time to study for difficult classes.
+             Agree
+ 
+         35 I know how to manage my time.
+             Agree
+ 
+         36 I find it difficult to juggle multiple deadlines.
+             Neutral
+ 
+         37 New ideas and projects sometimes distract me from previous ones.
+             Agree
+ 
+         38 Setbacks discourage me. 
+             Disagree
+ 
+         39 I have been obsessed with a certain idea or project for a short time but later lost interest.
+             Agree
+ 
+         40 I am a hard worker.
+             Agree
+ 
+         41 I often set a goal but later choose to pursue a different one.
+             Neutral
+ 
+         42 I have difficulty maintaining my focus on projects that take more than a few months to complete.
+             Agree
+ 
+         43 I finish whatever I begin.
+             Agree
+ 
+         44 I am diligent.
+             Agree
+ 
+         45 I can succeed in my college courses.
+             Strongly Agree
+ 
+         46 I know how to study for tests.
+             Agree
+ 
+         47 I know how to study well.
+             Agree
+ 
+         48 I can develop a strong plan for academic success.
+             Agree
+ 
+         49 Academically, I am very self-disciplined.
+             Neutral
+ 
+         50 I can handle any academic issues I might encounter.
+             Agree
+ 
+         51 I will complete my degree at UNL.
+             Strongly Agree
+ 
+         52 I will fit in at UNL.
+             Agree
+ 
+         53 I will make friends at UNL.
+             Agree
+ 
+         54 UNL was my first choice.
+             Agree
+ 
+         55 Careers/Majors of Interest
+             Computer Science, Computer Programmer, Software Developer
